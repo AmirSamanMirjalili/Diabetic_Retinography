@@ -16,9 +16,8 @@ To run this project, you'll need:
 - MATLAB's Image Processing Toolbox
 - Download these CNN's within matlab: Resnet18,Vgg16,Inception-v3,AlexNet
 ## Usage
-Download and unzip the [APTOS 2019 Diabetic Retinopathy](https://www.kaggle.com/datasets/andrewmvd/aptos2019) dataset.
-Run the preprocess_data.m script to preprocess the APTOS dataset.
-Run the train_model.m script to train the ensemble deep learning model.
-Run the predict_severity.m script to predict the DR severity of new images using the trained model.
+- Download and unzip the [APTOS 2019 Diabetic Retinopathy](https://www.kaggle.com/datasets/andrewmvd/aptos2019) dataset.
+- Run the DR_Detection.mlx script to start the learning workflow on the APTOS dataset.
+
 ## Acknowledgments
 Special thanks to Barath Narayanan Narayanan et al. for their research and the maintainers of the APTOS 2019 Diabetic Retinopathy dataset.
