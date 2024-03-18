@@ -27,3 +27,6 @@ To run this project, you'll need:
 
 ## Acknowledgments
 Special thanks to Barath Narayanan Narayanan et al. for their research and the maintainers of the APTOS 2019 Diabetic Retinopathy dataset.
+
+## Future work
+A python version of this project is in the future work list
