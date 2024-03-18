@@ -19,5 +19,8 @@ To run this project, you'll need:
 - Download and unzip the [APTOS 2019 Diabetic Retinopathy](https://www.kaggle.com/datasets/andrewmvd/aptos2019) dataset.
 - Run the DR_Detection.mlx script to start the learning workflow on the APTOS dataset.
 
+## Results
+- Read the Report.pdf for the final results
+
 ## Acknowledgments
 Special thanks to Barath Narayanan Narayanan et al. for their research and the maintainers of the APTOS 2019 Diabetic Retinopathy dataset.
