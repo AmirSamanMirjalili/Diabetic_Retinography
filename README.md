@@ -14,6 +14,7 @@ To run this project, you'll need:
 - MATLAB R2020a or higher
 - MATLAB's Deep Learning Toolbox
 - MATLAB's Image Processing Toolbox
+- Download these CNN's within matlab: Resnet18,Vgg16,Inception-v3,AlexNet
 ## Usage
 Download and unzip the [APTOS 2019 Diabetic Retinopathy](https://www.kaggle.com/datasets/andrewmvd/aptos2019) dataset.
 Run the preprocess_data.m script to preprocess the APTOS dataset.
