@@ -21,6 +21,9 @@ To run this project, you'll need:
 
 ## Results
 - Read the Report.pdf for the final results
+- Class Activation Mapping Results are depicted in the following figure
+ ![image](https://github.com/AmirSamanMirjalili/Diabetic_Retinography/assets/57065409/e14f258e-71ac-4cf8-9534-47402c1493c5)
+
 
 ## Acknowledgments
 Special thanks to Barath Narayanan Narayanan et al. for their research and the maintainers of the APTOS 2019 Diabetic Retinopathy dataset.
