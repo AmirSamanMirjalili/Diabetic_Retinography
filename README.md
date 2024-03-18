@@ -8,7 +8,7 @@ This project is an implementation of the paper ["Hybrid machine learning archite
 ## System Overview
 - Image Preprocessing: Input retinal fundus images are preprocessed to improve image quality using MATLAB's image processing toolbox.
 - Feature Extraction: Pre-trained VGG16 and InceptionV3 models extract deep features from preprocessed images. Features from both models are combined to form a composite feature vector.
-- Classification: The composite feature vector is fed into a Random Forest classifier for predicting the DR severity stage.
+- Classification: The composite feature vector is fed into a Random Forest classifier for predicting the DR severity stage. (haven't done yet)
 ## Requirements
 To run this project, you'll need:
 - MATLAB R2020a or higher
